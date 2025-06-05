@@ -30,3 +30,5 @@ The AI Market Predictor analyzes historical stock price data and uses pattern re
 3. **Model Training**: Trains an ML model to recognize patterns and outcomes.
 4. **Prediction**: Forecasts the next 5 market days for new/unseen data.
 5. **Evaluation**: Compares predictions with actual market outcomes for validation.
+
+NOTE THIS PROJECT IS STILL ON PROCESS
